@@ -8,7 +8,7 @@
 ### Instrution our team
 
 - Heesu Yeom (Hallym univ. senior)
-- Jeongmyeong Choi (Hallym univ. senior)
+- Jeoungmyeong Choi (Hallym univ. senior)
 - Jongyoon Chae (Konkuk univ. junnior)
 - Beomseok Cho (Konkuk univ. junnior)
 - Hyojin Cho (Konkuk univ. junnior)
@@ -23,8 +23,13 @@
 
 To provide information and improve security by using the status of crime in La area
 
+### data analysis
+
+[data analysis](https://github.com/yeom-heesu/USC_Hackathon/blob/master/files/data_analysis.md)
+
 ### Minutes
 
 [Minutes_1](https://github.com/yeom-heesu/USC_Hackathon/blob/master/minutes/First_minutes.md)
 
 [Minutes_2](https://github.com/yeom-heesu/USC_Hackathon/blob/master/minutes/Second_minutes.md)
+

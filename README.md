@@ -8,7 +8,7 @@
 ### Instrution our team
 
 - Heesu Yeom (Hallym univ. senior)
-- Jeoungmyeong Choi (Hallym univ. senior)
+- Jeongmyeong Choi (Hallym univ. senior)
 - Jongyoon Chae (Konkuk univ. junnior)
 - Beomseok Cho (Konkuk univ. junnior)
 - Hyojin Cho (Konkuk univ. junnior)

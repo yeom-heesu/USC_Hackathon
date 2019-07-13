@@ -16,6 +16,12 @@
 
 ### Role distribution
 
+[](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab/lab1.ipynb)
+[Jeongyoung Choi](https://github.com/yeom-heesu/USC-Data-Analysis-/blob/master/lab/lab1.ipynb)
 
+### Object of the project
 
+### Minutes
+
+[Minutes_1](https://github.com/yeom-heesu/USC_Hackathon/minutes/minutes1.md)
 

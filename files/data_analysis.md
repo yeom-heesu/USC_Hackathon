@@ -10,6 +10,5 @@
    
 4. The highest crime type by region (Note generalization)
 5. Region with the highest crime frequency by year or month
-6. Visualize the victim's sex ratio by region (지역마다 파이그래프 표시)  - 막대그래프
+6. Visualize the victim's sex ratio by region 
 7. Percentage of victims age by region / crime
-

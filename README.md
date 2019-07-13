@@ -21,7 +21,10 @@
 
 ### Object of the project
 
+To provide information and improve security by using the status of crime in La area
+
 ### Minutes
 
 [Minutes_1](https://github.com/yeom-heesu/USC_Hackathon/blob/master/minutes/First_minutes.md)
+
 

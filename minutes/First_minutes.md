@@ -5,15 +5,11 @@
 
 ## meeting contents
 
-1. selection of Topic
-  - Analysis of crime by City
+1. Thinking about the subject and purpose
   
-2. Role distribution
-  - Heesu Yeom : managing github and minutes , data analysis and visulaization using Python
-  - Jeoungmyeong Choi : data preprocessing()
-  - Jongyoon Chae : data analysis, visulaization on the map using Python
-  - Beomseok Cho : data preprocessing and analysis
-  - Hyojin Cho : visulaization on the map using Python
-  -Jaeyoung Kim : data analysis and visulaizaion using Python
+  
+2. serch the data
+ 
 
-3. Visualization uses a 'Tableau' , 'Python'
+3. To imagine which language to use
+

@@ -23,6 +23,5 @@
 
 ### Minutes
 
-[Minutes_1](https://github.com/yeom-heesu/USC_Hackathon/minutes/First_minutes.md)
-
+[Minutes_1](https://github.com/yeom-heesu/USC_Hackathon/blob/master/minutes/First_minutes.md)
 

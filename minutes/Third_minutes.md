@@ -9,7 +9,7 @@
 
   team name : Insight.
   
-  project name : Enjoy Your Trip(ENT).
+  project name : Enjoy Your Trip.
 
 1. progress report
 
@@ -24,6 +24,7 @@
     The highest crime type among regions (Note generalization) - progressing
 
     Visualize the victim's sex ratio by region - done
+
 
 
 

@@ -15,11 +15,11 @@
 1.  2017-2019년간 Hollywood에서 범죄 발생 지도 오전6시(하루 중 crime 발생 최저),오후 12시(최고)
 ![3년간 시간별 범죄횟수](png/hollywood_ctimetime.png)
 
-![hw의 6시(범죄 거의없음)](png/Hollywood 6AM.PNG) 
+![hw의 6시(범죄 거의없음)](https://github.com/yeom-heesu/USC_Hackathon/blob/master/files/png/Hollywood%206AM.PNG) 
 
 # 3년간 데이터기 때문에 많아 보일 수 있다.
 
-![hw의 12시(범죄 많음)](png/Hollywood 12PM.PNG) 
+![hw의 12시(범죄 많음)](https://github.com/yeom-heesu/USC_Hackathon/blob/master/files/png/Hollywood%2012PM.PNG) 
 
 3. 지역별 가장 높은 범죄 유형
 
@@ -28,5 +28,6 @@
 
 <결과>
 - 
+
 
 

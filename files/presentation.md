@@ -21,9 +21,12 @@
 
 ![hw의 12시(범죄 많음)](https://github.com/yeom-heesu/USC_Hackathon/blob/master/files/png/Hollywood%2012PM.PNG) 
 
-3. 지역별 가장 높은 범죄 유형
+3. 지역별 가장 빈도 높은 범죄
+
+![범죄유형](https://github.com/yeom-heesu/USC_Hackathon/blob/master/files/png/%EC%A7%80%EC%97%AD%EB%B3%84%20%EA%B0%80%EC%9E%A5%20%EB%B9%88%EB%8F%84%20%EB%86%92%EC%9D%80%20%EB%B2%94%EC%A3%84.png)
 
 4. 범죄가 잘 일어나지 않는 지역(발생빈도가 가장 적은) => 안전지역으로 여행적합
+
 
 
 <결과>

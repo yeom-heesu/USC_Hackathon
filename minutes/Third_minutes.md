@@ -11,21 +11,22 @@
 
 1. progress report
 
-  [Visualization Map] Frequency of Crime by Region
+    [Visualization Map] Frequency of Crime by Region
 
-  [Visualization Map] Frequency of Crime occurrence by Region
+    [Visualization Map] Frequency of Crime occurrence by Region
 
-  Comparison of crime types according to type of crime
+    Comparison of crime types according to type of crime
 
-  Frequency of occurrence by total crime time
+    Frequency of occurrence by total crime time
 
-  The highest crime type by region (Note generalization)
+    The highest crime type by region (Note generalization)
 
-  Region with the highest crime frequency by year or month
+    Region with the highest crime frequency by year or month
 
-  Visualize the victim's sex ratio by region
+    Visualize the victim's sex ratio by region
 
-  Percentage of victims age by region / crime
+    Percentage of victims age by region / crime
+
 
 
 

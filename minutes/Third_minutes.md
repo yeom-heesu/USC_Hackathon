@@ -5,8 +5,10 @@
 
 ## meeting contents
 
-0. team & project name
+0. team & project name  
+
   team name : Insight.
+  
   project name : Enjoy Your Trip(ENT).
 
 1. progress report
@@ -22,8 +24,6 @@
     The highest crime type among regions (Note generalization) - progressing
 
     Visualize the victim's sex ratio by region - done
-
-
 
 
 

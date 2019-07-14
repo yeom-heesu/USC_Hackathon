@@ -9,23 +9,22 @@
 
 <본론>
 
- ![wordcloud](files/png/WordCloud.png)
+ ![wordcloud](png/WordCloud.png)
  크게보이는 단어 읽기
  
 1.  2017-2019년간 Hollywood에서 범죄 발생 지도 오전6시(하루 중 crime 발생 최저),오후 12시(최고)
-![3년간 시간별 범죄횟수](files/png/hollywood_ctimetime.png)
+![3년간 시간별 범죄횟수](png/hollywood_ctimetime.png)
 
-![hw의 6시(범죄 거의없음)](files/png/Hollywood 6AM.PNG) 
+![hw의 6시(범죄 거의없음)](png/Hollywood 6AM.PNG) 
 
 # 3년간 데이터기 때문에 많아 보일 수 있다.
 
-![hw의 12시(범죄 많음)](files/png/Hollywood 12PM.PNG) 
+![hw의 12시(범죄 많음)](png/Hollywood 12PM.PNG) 
 
 3. 지역별 가장 높은 범죄 유형
 
 4. 범죄가 잘 일어나지 않는 지역(발생빈도가 가장 적은) => 안전지역으로 여행적합
 
-5. 
 
 <결과>
 - 

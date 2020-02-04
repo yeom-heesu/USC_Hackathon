@@ -13,7 +13,7 @@
 - Jeongmyeong Choi (Hallym univ. senior)
 - Jongyoon Chae (Konkuk univ. junior)
 - Beomseok Cho (Konkuk univ. junior)
-- Hyojin Cho (Konkuk univ. junior)
+- Hyojin Jeon (Konkuk univ. junior)
 - Jaeyoung Kim (Hallym univ. senior)
 
 ### Project name

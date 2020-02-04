@@ -5,15 +5,15 @@
 ### This is storage for Southern California Korea American SW Pioneer Hackathon
 ### We will upload all file for Hackathon
 
-### Instrution our team
+### Instruction our team
 
 #### name : Insight.
 
 - Heesu Yeom (Hallym univ. senior)
 - Jeongmyeong Choi (Hallym univ. senior)
-- Jongyoon Chae (Konkuk univ. junnior)
-- Beomseok Cho (Konkuk univ. junnior)
-- Hyojin Cho (Konkuk univ. junnior)
+- Jongyoon Chae (Konkuk univ. junior)
+- Beomseok Cho (Konkuk univ. junior)
+- Hyojin Cho (Konkuk univ. junior)
 - Jaeyoung Kim (Hallym univ. senior)
 
 ### Project name
